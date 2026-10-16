@@ -81,4 +81,4 @@ Mốc đánh giá cuối cùng:
 
 Hoàn thành cơ bản: Bài 18 đạt ♩=100, Bài 31 đạt ♩=110.\
 Hoàn thành tốt: Bài 31 đạt ♩=120, Bài 61 đạt ♩=120.\
-Hoàn thành rất tốt: Bài 71 đạt ♩=112 và Bài 89 thổi trọn vẹn, ổn định.\
+Hoàn thành rất tốt: Bài 71 đạt ♩=112 và Bài 89 thổi trọn vẹn, ổn định.
