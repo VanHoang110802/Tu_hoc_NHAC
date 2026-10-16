@@ -1,4 +1,4 @@
-Vì trong PDF không ghi metronome cụ thể cho từng bài mà chỉ ghi các mức như Chậm rãi, Vừa phải, Nhanh vừa, Nhanh vui... nên dưới đây là mục tiêu tốc độ thực hành hợp lý cho 14 bài đã chọn.\
+Vì trong PDF không ghi metronome cụ thể cho từng bài mà chỉ ghi các mức như Chậm rãi, Vừa phải, Nhanh vừa, Nhanh vui... nên dưới đây là mục tiêu tốc độ thực hành hợp lý cho 14 bài đã chọn.
 
 Bài	Mục tiêu cuối1	♩ = 80\
 4	♩ = 80\
